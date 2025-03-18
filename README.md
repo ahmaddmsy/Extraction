@@ -35,7 +35,7 @@ Bar chart comparing feature values for different fabric types.
 
 Installation & Usage
 Clone this repository:
-git clone https://github.com/yourusername/fabric-texture-analysis.git
+git clone https://github.com/ahmaddmsy/Extraction
 cd fabric-texture-analysis
 Install dependencies:
 pip install numpy opencv-python matplotlib scikit-image
