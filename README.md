@@ -87,4 +87,4 @@ Medical Imaging: Analysis of patterns in X-rays or MRI scans.
 
 Author
 
-Your Name
+Ahmad Bidni Musyafa
